@@ -1,5 +1,4 @@
-# Study Protocol: How Multimorbidity Affects Cancer Treatment: Analyzing
-the Impact on Treatment Safety and Effectiveness in Clinical Trials
+# Study Protocol: Multimorbidity in Clinical Cancer Trials
 Dr Jennifer Lees and Prof David McAllister
 
 ## Overview
