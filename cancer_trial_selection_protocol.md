@@ -1,11 +1,13 @@
-# Study Protocol: Multimorbidity in Clinical Cancer Trials
+# Study Protocol: How Multimorbidity Affects Cancer Treatment: Analyzing
+the Impact on Treatment Safety and Effectiveness in Clinical Trials
 Dr Jennifer Lees and Prof David McAllister
 
 ## Overview
 
 This protocol describes the purpose, trial selection and intended
-conduct of Vivli Project ID ***0000xxxx***: Multimorbidity in clinical
-cancer trials.
+conduct of Vivli Project ID 00010856: How Multimorbidity Affects Cancer
+Treatment: Analyzing the Impact on Treatment Safety and Effectiveness in
+Clinical Trials.
 
 ## Background
 
